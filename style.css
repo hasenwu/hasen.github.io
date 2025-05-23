@@ -22,9 +22,10 @@ body::before {
 }
 
 
+/* Container background gradient from pink to yellow */
 .container {
     text-align: center;
-    background-color: rgba(255,255,255,0.95);
+    background: linear-gradient(135deg, #ffb6c1, #ffe066);
     padding: 30px 20px 20px 20px;
     border-radius: 20px;
     box-shadow: 0 8px 32px rgba(255, 182, 193, 0.2), 0 0 10px rgba(0, 0, 0, 0.08);
@@ -34,9 +35,9 @@ body::before {
 
 .container h1 {
     font-size: 2.5em;
-    color: #ff69b4;
+    color: #d01f1f;
     margin-bottom: 10px;
-    text-shadow: 2px 2px 8px #fff0f5, 0 2px 0 #ffe066;
+    text-shadow: 2px 2px 8px #e8e2e4, 0 2px 0 #e6e4de;
     letter-spacing: 2px;
     position: relative;
 }
@@ -55,6 +56,7 @@ body::before {
 }
 
 
+/* Button background gradient from pink to yellow */
 .options-container button {
     padding: 12px 28px;
     font-size: 18px;
@@ -62,20 +64,23 @@ body::before {
     cursor: pointer;
     border: none;
     border-radius: 24px;
-    background: linear-gradient(90deg, #ffb6c1 0%, #ffe066 100%);
+    background: linear-gradient(90deg, #ee8192 0%, #f8a335 100%);
     color: #fff;
     font-weight: bold;
     box-shadow: 0 2px 8px #ffe06644;
     transition: background 0.3s, transform 0.2s;
     position: relative;
 }
+/* Button hover effect changes gradient direction */
 .options-container button:hover {
-    background: linear-gradient(90deg, #ffe066 0%, #ffb6c1 100%);
+    background: linear-gradient(90deg, #f7da67 0%, #ffb6c1 100%);
     transform: scale(1.07);
 }
 
+/* Button hover effect changes gradient direction */
 .options-container button:hover {
-    background-color: #0056b3;
+    background: linear-gradient(90deg, #ffe066 0%, #ffb6c1 100%);
+    transform: scale(1.07);
 }
 
 .wheel-container {
@@ -88,6 +93,7 @@ body::before {
     margin: 0 auto;
 }
 
+/* Spin button with gradient and hover effect */
 #spinButton {
     display: block;
     margin: 24px auto 0 auto;
@@ -96,7 +102,7 @@ body::before {
     cursor: pointer;
     border: none;
     border-radius: 30px;
-    background: linear-gradient(90deg, #ffb6c1 0%, #ffe066 100%);
+    background: linear-gradient(90deg, #e87989 0%, #e9c02c 100%);
     color: #fff;
     font-weight: bold;
     box-shadow: 0 2px 8px #ffe06644;
@@ -143,7 +149,7 @@ body::before {
     margin-top: 24px;
     font-size: 22px;
     font-weight: bold;
-    color: #ff69b4;
+    color: #b94415;
     text-shadow: 1px 1px 8px #fff0f5;
     letter-spacing: 1px;
 }
@@ -151,7 +157,7 @@ body::before {
 a {
     display: inline-block;
     margin-top: 24px;
-    color: #ff69b4;
+    color: #000000;
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
@@ -162,12 +168,12 @@ a {
     transition: background 0.3s, color 0.3s;
 }
 a:hover {
-    background: #ffe066;
+    background: #ffad66;
     color: #fff;
     text-decoration: none;
 }
 a:hover {
-    background: #ffe066;
+    background: #ffc266;
     color: #fff;
     text-decoration: none;
 }
