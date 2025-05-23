@@ -104,14 +104,29 @@ body::before {
     position: relative;
 }
 @media (max-width: 600px) {
+    .container {
+        width: 100%;
+        padding: 20px 10px;
+    }
+    .options-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .options-container button {
+        width: 90%;
+        max-width: 300px;
+        margin: 10px 0;
+    }
     #spinButton {
-        display: block;
-        margin: 8px auto; /* Centering the button */
-        padding: 8px 6vw;
-        border-radius: 16px;
-        width: 95%; /* Adjusted width for better centering */
-        max-width: 350px;
-        box-sizing: border-box;
+        width: 90%;
+        max-width: 300px;
+        margin: 10px auto;
+    }
+    #wheelCanvas {
+        width: 90%;
+        max-width: 300px;
+        height: auto;
     }
 }
 #spinButton:hover {
