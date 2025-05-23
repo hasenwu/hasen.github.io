@@ -1,0 +1,188 @@
+body {
+    font-family: 'Comic Sans MS', 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #ffe6f7 0%, #fffbe6 100%);
+    color: #333;
+    overflow-x: hidden;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 12px 2vw 12px 2vw;
+        border-radius: 10px;
+    }
+    .container h1 {
+        font-size: 1.5em;
+    }
+    .options-container button, #spinButton {
+        font-size: 15px;
+        padding: 10px 10vw;
+        border-radius: 18px;
+    }
+    .wheel-container {
+        width: 100vw;
+        max-width: 98vw;
+        min-width: 0;
+    }
+    #wheelCanvas {
+        width: 90vw !important;
+        height: 90vw !important;
+        max-width: 350px;
+        max-height: 350px;
+    }
+    #result {
+        font-size: 16px;
+    }
+    a {
+        font-size: 15px;
+        padding: 5px 12px;
+        border-radius: 10px;
+    }
+}
+
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 0;
+    pointer-events: none;
+    background: url('data:image/svg+xml;utf8,<svg width="100%25" height="100%25" xmlns="http://www.w3.org/2000/svg"><g><ellipse cx="60" cy="80" rx="30" ry="40" fill="%23ffb6c1" opacity="0.5"/><ellipse cx="200" cy="120" rx="25" ry="35" fill="%23ffe066" opacity="0.5"/><ellipse cx="350" cy="60" rx="20" ry="30" fill="%2390ee90" opacity="0.5"/><ellipse cx="500" cy="100" rx="28" ry="38" fill="%23add8e6" opacity="0.5"/><ellipse cx="700" cy="80" rx="22" ry="32" fill="%23dda0dd" opacity="0.5"/></g></svg>') repeat-x top/auto 200px;
+}
+
+/* 彩带动画 */
+@keyframes confetti {
+    0% { transform: translateY(-100px) rotateZ(0deg); opacity: 1; }
+    100% { transform: translateY(100vh) rotateZ(360deg); opacity: 0.7; }
+}
+.confetti {
+    position: fixed;
+    width: 16px;
+    height: 16px;
+    z-index: 10;
+    pointer-events: none;
+    animation: confetti 4s linear infinite;
+}
+
+
+.container {
+    text-align: center;
+    background-color: rgba(255,255,255,0.95);
+    padding: 30px 20px 20px 20px;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(255, 182, 193, 0.2), 0 0 10px rgba(0, 0, 0, 0.08);
+    position: relative;
+    z-index: 1;
+}
+
+.container h1 {
+    font-size: 2.5em;
+    color: #ff69b4;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 8px #fff0f5, 0 2px 0 #ffe066;
+    letter-spacing: 2px;
+    position: relative;
+}
+
+.container h1::after {
+    content: "🎂";
+    font-size: 1.2em;
+    margin-left: 10px;
+    vertical-align: middle;
+    animation: cake-bounce 1.2s infinite alternate;
+}
+
+@keyframes cake-bounce {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-8px); }
+}
+
+
+.options-container button {
+    padding: 12px 28px;
+    font-size: 18px;
+    margin: 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 24px;
+    background: linear-gradient(90deg, #ffb6c1 0%, #ffe066 100%);
+    color: #fff;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #ffe06644;
+    transition: background 0.3s, transform 0.2s;
+    position: relative;
+}
+.options-container button:hover {
+    background: linear-gradient(90deg, #ffe066 0%, #ffb6c1 100%);
+    transform: scale(1.07);
+}
+
+.options-container button:hover {
+    background-color: #0056b3;
+}
+
+.wheel-container {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#wheelCanvas {
+    display: block;
+    margin: 0 auto;
+}
+
+#spinButton {
+    padding: 14px 36px;
+    font-size: 20px;
+    margin-top: 24px;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    background: linear-gradient(90deg, #ffb6c1 0%, #ffe066 100%);
+    color: #fff;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #ffe06644;
+    transition: background 0.3s, transform 0.2s;
+    position: relative;
+}
+#spinButton:hover {
+    background: linear-gradient(90deg, #ffe066 0%, #ffb6c1 100%);
+    transform: scale(1.08);
+}
+#spinButton:disabled {
+    background: #ccc;
+    color: #fff;
+    cursor: not-allowed;
+}
+
+#result {
+    margin-top: 24px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #ff69b4;
+    text-shadow: 1px 1px 8px #fff0f5;
+    letter-spacing: 1px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 24px;
+    color: #ff69b4;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    background: #fffbe6;
+    padding: 6px 18px;
+    border-radius: 16px;
+    box-shadow: 0 2px 8px #ffe06644;
+    transition: background 0.3s, color 0.3s;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
