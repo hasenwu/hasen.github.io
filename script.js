@@ -202,7 +202,7 @@ function spin() {
             resultDiv.textContent = `结果: ${targetOption.text}`;
             // 不移除选项，保证每次都能抽到指定内容
             if ((numOptions === 6 && spinCount === 6) || (numOptions !== 6 && spinCount === 8)) {
-                resultDiv.textContent += "\n所有选项已完成！";
+                resultDiv.textContent += "\n";
                 spinButton.textContent = "生日快乐";
                 spinButton.disabled = false;
                 spinButton.dataset.birthday = "true";
