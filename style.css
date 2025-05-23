@@ -159,9 +159,10 @@ body::before {
 }
 
 #spinButton {
+    display: block;
+    margin: 24px auto 0 auto;
     padding: 14px 36px;
     font-size: 20px;
-    margin-top: 24px;
     cursor: pointer;
     border: none;
     border-radius: 30px;
@@ -171,6 +172,16 @@ body::before {
     box-shadow: 0 2px 8px #ffe06644;
     transition: background 0.3s, transform 0.2s;
     position: relative;
+}
+@media (max-width: 600px) {
+    #spinButton {
+        display: block;
+        margin: 12px auto 0 auto;
+        width: 90vw;
+        max-width: 350px;
+        min-width: 120px;
+        box-sizing: border-box;
+    }
 }
 #spinButton:hover {
     background: linear-gradient(90deg, #ffe066 0%, #ffb6c1 100%);
@@ -208,4 +219,2672 @@ a:hover {
     background: #ffe066;
     color: #fff;
     text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background: #ffe066;
 }
